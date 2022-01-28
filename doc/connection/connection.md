@@ -1,12 +1,12 @@
 # 接続手順書
 - [接続手順書](#接続手順書)
   - [開発用PCへ接続する](#開発用pcへ接続する)
-    - [Windowsの人](#windowsの人)
-    - [Macの人](#macの人)
   - [アドインの開発を始める](#アドインの開発を始める)
 
 ## 開発用PCへ接続する
-### Windowsの人
+<details>
+<summary>Windowsの人</summary>
+
 1. スタートメニューを開き、「リモートデスクトップ接続」と検索して開いてください。  
   ![リモートデスクトップ接続](img/remote.png)
 
@@ -33,8 +33,10 @@
     |5|intern5|intern5#####|
 
 1. 開発用PCにログインできました。
+</details>
+<details>
+<summary>Macの人</summary>
 
-### Macの人
 1. App Storeを開いて、「Microsoft Remote Desktop」で検索します。  
     出てきたアプリを「インストール」して、インストールが終わったら「開く」を押してください。  
   ![Macリモートデスクトップ接続](img/mac_remote.png)
@@ -76,6 +78,7 @@
   ![Macリモートデスクトップ接続7](img/mac_remote7.png)
 
 1. 開発用PCにログインできました。
+</details>
 
 ## アドインの開発を始める
 
