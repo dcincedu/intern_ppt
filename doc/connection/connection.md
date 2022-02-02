@@ -16,21 +16,21 @@
   __※接続先アドレスはZoomのチャットで連絡します。__
     |チーム|コンピューター|
     |-|-|
-    |1|xx.xx.xx.xx|
-    |2|xx.xx.xx.xx|
-    |3|xx.xx.xx.xx|
-    |4|xx.xx.xx.xx|
-    |5|xx.xx.xx.xx|
+    |A|xx.xx.xx.xx|
+    |B|xx.xx.xx.xx|
+    |C|xx.xx.xx.xx|
+    |D|xx.xx.xx.xx|
+    |E|xx.xx.xx.xx|
 
 1. 以下ユーザー名とパスワードを入力してOKします。  
   ![リモートデスクトップ接続3](img/remote3.png)
     |チーム|ユーザー名|パスワード|
     |-|-|-|
-    |1|intern1|intern1#####|
-    |2|intern2|intern2#####|
-    |3|intern3|intern3#####|
-    |4|intern4|intern4#####|
-    |5|intern5|intern5#####|
+    |A|intern1|intern1#####|
+    |B|intern2|intern2#####|
+    |C|intern3|intern3#####|
+    |D|intern4|intern4#####|
+    |E|intern5|intern5#####|
 
 1. 開発用PCにログインできました。
 </details>
@@ -52,11 +52,11 @@
   __※接続先アドレスはZoomのチャットで連絡します。__
     |チーム|PC name|
     |-|-|
-    |1|xx.xx.xx.xx|
-    |2|xx.xx.xx.xx|
-    |3|xx.xx.xx.xx|
-    |4|xx.xx.xx.xx|
-    |5|xx.xx.xx.xx|
+    |A|xx.xx.xx.xx|
+    |B|xx.xx.xx.xx|
+    |C|xx.xx.xx.xx|
+    |D|xx.xx.xx.xx|
+    |E|xx.xx.xx.xx|
 
     ![Macリモートデスクトップ接続4](img/mac_remote4.png)
 
@@ -66,11 +66,11 @@
 1. ユーザー名とパスワードに以下を入れて「Continue」を押します。
     |チーム|Username|Password|
     |-|-|-|
-    |1|intern1|intern1#####|
-    |2|intern2|intern2#####|
-    |3|intern3|intern3#####|
-    |4|intern4|intern4#####|
-    |5|intern5|intern5#####|  
+    |A|intern1|intern1#####|
+    |B|intern2|intern2#####|
+    |C|intern3|intern3#####|
+    |D|intern4|intern4#####|
+    |E|intern5|intern5#####|  
 
     ![Macリモートデスクトップ接続6](img/mac_remote6.png)
 
@@ -86,18 +86,13 @@
 
 1. 開発用PCでSlackを起動する。  
   Zoomのブレークアウトルームに移動後の、社員との連絡手段として使用します。  
-  アカウント・ワークスペース設定済みとなっているはずです。
+  アカウント・ワークスペース設定済みとなっています。
 
-1. 開発用PCのデスクトップにある「Z」のリンクを開く。  
-    |格納ファイルフォルダ名|内容|
-    |-|-|
-    |Z:\PowerPointアドイン開発手順書.pdf|開発用PCにログインしてから、チュートリアル問題を解くまでの手順書|
-
-1. 「PowerPointアドイン開発手順書.pdf」を開く
+1. 開発用PCのデスクトップにある「Z」のリンクを開き、  
+   「PowerPointアドイン開発演習手順書.pdf」を開く
 
 1. 手順書を参考に、問題に取り組んでいきましょう！
 
 * (参考)開発用PCには以下ツールが入っています。
   * Office 2016
   * Visual Studio 2019 Community
-
